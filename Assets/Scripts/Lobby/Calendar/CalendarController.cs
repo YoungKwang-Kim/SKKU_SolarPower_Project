@@ -6,15 +6,15 @@ using UnityEngine.UI;
 
 public class CalendarController : MonoBehaviour
 {
-    // 달력을 표시할 UI 요소들
+   
     public GameObject _calendarPanel;
-    public Text _yearNumText;  // 년도를 표시할 텍스트 UI
-    public Text _monthNumText; // 월을 표시할 텍스트 UI
+    public Text _yearNumText;  
+    public Text _monthNumText; 
 
     // 달력 날짜 아이템 프리팹
     public GameObject _item;
 
-    // 날짜 아이템들의 리스트
+    // 날짜 아이템들 리스트
     public List<GameObject> _dateItems = new List<GameObject>();
     const int _totalDateNum = 42; // 한 화면에 표시할 총 날짜 아이템 수
 
@@ -30,7 +30,7 @@ public class CalendarController : MonoBehaviour
         _dateItems.Clear();
         _dateItems.Add(_item);
 
-        //달력 각 날짜 아이템들을 생성하고 위치 설정
+        //달력 각 날짜 아이템들을 생성+위치
         for (int i = 1; i < _totalDateNum; i++)
         {
             GameObject item = GameObject.Instantiate(_item) as GameObject;
