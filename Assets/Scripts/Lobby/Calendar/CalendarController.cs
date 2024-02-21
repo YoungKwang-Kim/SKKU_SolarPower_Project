@@ -7,7 +7,6 @@ using UnityEngine.UI;
 public class CalendarController : MonoBehaviour
 {
    
-    public GameObject _calendarPanel;
     public Text _yearNumText;  
     public Text _monthNumText; 
 
@@ -16,7 +15,7 @@ public class CalendarController : MonoBehaviour
 
     // 날짜 아이템들 리스트
     public List<GameObject> _dateItems = new List<GameObject>();
-    const int _totalDateNum = 42; // 한 화면에 표시할 총 날짜 아이템 수
+    const int _totalDateNum = 31; // 한 화면에 표시할 총 날짜 아이템 수
 
     private DateTime _dateTime;
     public static CalendarController _calendarInstance;
@@ -47,8 +46,8 @@ public class CalendarController : MonoBehaviour
 
             item.transform.localRotation = Quaternion.identity;
             //생성된 GameObject의 회전을 초기화
-            item.transform.localPosition = new Vector3((i % 7) * 36 + startPos.x, startPos.y - (i / 7) * 30, startPos.z);
-            //생성된 GameObject의 위치를 계산하여 설정. 각 날짜 아이템을 7열로 나열하고, 각 행 간격은 30, 열 간격은 36
+            item.transform.localPosition = new Vector3((i % 7) * 38 + startPos.x, startPos.y - (i / 7) * 30, startPos.z);
+            //각 날짜 아이템을 7열로 나열하고, 각 행 간격은 30, 열 간격은 38
             _dateItems.Add(item);
             //생성된 GameObject를 _dateItems 리스트에 추가합니다. 이 리스트는 후에 생성된 날짜 아이템에 접근하기 위해 사용
         }
@@ -58,7 +57,6 @@ public class CalendarController : MonoBehaviour
         // 현재 월의 달력 생성
         CreateCalendar();
 
-        _calendarPanel.SetActive(false); // 초기에는 달력을 보이지 않도록 설정
     }
 
     // 현재 월의 달력을 생성하는 함수
@@ -135,20 +133,14 @@ public class CalendarController : MonoBehaviour
         CreateCalendar();
     }
 
-    // 달력을 보이게 하는 함수
-    public void ShowCalendar(Text target)
-    {
-        _calendarPanel.SetActive(true);
-        _target = target;
-        //_calendarPanel.transform.position = new Vector3(965, 475, 0);//Input.mousePosition-new Vector3(0,120,0);
-    }
-
-    Text _target;
+    //Text target이 처음에는 첫 아이템
+    public Text text_Select_Date;
+   
 
     // 아이템 클릭시 Text에 날짜 표시하는 함수
     public void OnDateItemClick(string day)
     {
-        _target.text = _yearNumText.text + "-" + _monthNumText.text + "-" + int.Parse(day).ToString("D2");
-        //_calendarPanel.SetActive(true);
+       text_Select_Date.text = _yearNumText.text + "-" + _monthNumText.text + "-" + int.Parse(day).ToString("D2");
+       
     }
 }
