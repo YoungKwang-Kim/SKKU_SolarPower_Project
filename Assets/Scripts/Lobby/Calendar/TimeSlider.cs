@@ -9,7 +9,7 @@ public class TimeSlider : MonoBehaviour
 
     private void Start()
     {
-        // 슬라이더 값이 변경될 때마다 호출
+        // 슬라이더 값이 변경될 때마다
         timeSlider.onValueChanged.AddListener(UpdateTime);
     }
 
