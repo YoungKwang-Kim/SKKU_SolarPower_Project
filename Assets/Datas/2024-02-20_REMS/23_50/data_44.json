@@ -1,0 +1,15 @@
+[
+    {
+        "dayGelec": 47403.914,
+        "accumGelec": 230370102.5,
+        "co2": 22057,
+        "dayPrdct": 51716.89,
+        "hco2": 24063.87,
+        "cntuAccumPowerPrdct": 748956483.86
+    },
+    {
+        "gelecInstcapa": 80908.784021,
+        "heatInstcapa": 11779.2,
+        "heathInstcapa": 39228.52
+    }
+]
