@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Billboard : MonoBehaviour
+public class UI_Billboard : MonoBehaviour
 {
     public Transform target;
     [Tooltip("보고자하는 스케일 크기를 입력하세요.")]
