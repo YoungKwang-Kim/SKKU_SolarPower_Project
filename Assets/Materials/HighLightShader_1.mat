@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: OutlineShader_1
-  m_Shader: {fileID: -6465566751694194690, guid: 57a3b94f479038c43bc0ca0fdc8c463d,
+  m_Name: HighLightShader_1
+  m_Shader: {fileID: -6465566751694194690, guid: 621647c190d59b74fbf5ac4ec55f4789,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
