@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_TerrainAutoUpgrade/layer_793646612c42751.terrainlayer.meta
+guid: 5bbeff4dcd7f9cd459af00d6f5877771
+========
+guid: 3a514cf0f4eff574b90e5eaa598dd71a
+>>>>>>>> main:Assets/Prefabs/Drone/MyDrone Animator Controller.controller.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
