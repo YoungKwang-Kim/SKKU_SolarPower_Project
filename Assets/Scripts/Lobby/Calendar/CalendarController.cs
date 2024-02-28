@@ -20,7 +20,7 @@ public class CalendarController : MonoBehaviour
     private DateTime _dateTime;
     public static CalendarController _calendarInstance;
 
-    void Start()
+    void OnEnable()
     {
         _calendarInstance = this;
 
@@ -53,6 +53,7 @@ public class CalendarController : MonoBehaviour
         }
 
         _dateTime = DateTime.Now;
+        text_Select_Date.text = _dateTime.ToString("yyyy-MM-dd");
 
         // 현재 월의 달력 생성
         CreateCalendar();

@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LobbyScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/RegionScene.unity
+    guid: 055f512cc0f61444ca1d167303a5fd13
+  - enabled: 1
+    path: Assets/Scenes/SolaseadoScene.unity
+    guid: f6550f7a8646aec4da9f35ef7171f325
   m_configObjects: {}
