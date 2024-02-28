@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,8 +9,9 @@ public class CurrentTime : MonoBehaviour
 {
     public Text currentDate; 
     public Text currentTime;
+    public DateTime currentDateTime = DateTime.Now;
 
-    void Start()
+    void OnEnable()
     {
         UpdateCurrent();
 
@@ -19,8 +21,6 @@ public class CurrentTime : MonoBehaviour
     // Update is called once per frame
     void UpdateCurrent()
     {
-        DateTime currentDateTime = DateTime.Now;
-
         currentDate.text = currentDateTime.ToString("yyyy³â MM¿ù ddÀÏ");
         currentTime.text = currentDateTime.ToString("HH:mm");
     }
