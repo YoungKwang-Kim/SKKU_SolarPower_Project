@@ -955,7 +955,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverScale: {x: 1.7, y: 1.7, z: 1.7}
   hoverPosition: {x: 142.07, y: -8.2041, z: 47.14}
-  lerpSpeed: 0.5
+  lerpSpeed: 0.2
   nextScene: 0
 --- !u!1001 &115723946
 PrefabInstance:
@@ -1499,7 +1499,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverScale: {x: 1.7, y: 1.7, z: 1.7}
   hoverPosition: {x: 97.069, y: -8.2041, z: 63.841}
-  lerpSpeed: 0.5
+  lerpSpeed: 0.2
   nextScene: 0
 --- !u!1 &240864553
 GameObject:
@@ -8305,7 +8305,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverScale: {x: 1.7, y: 1.7, z: 1.7}
   hoverPosition: {x: 87.868, y: -8.2041, z: 106.94}
-  lerpSpeed: 0.5
+  lerpSpeed: 0.2
   nextScene: 0
 --- !u!1 &1649635939
 GameObject:
@@ -9740,7 +9740,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverScale: {x: 1.7, y: 1.7, z: 1.7}
   hoverPosition: {x: 142.07, y: -8.2041, z: 96.441}
-  lerpSpeed: 0.5
+  lerpSpeed: 0.2
   nextScene: 1
 --- !u!1001 &1865973353
 PrefabInstance:
