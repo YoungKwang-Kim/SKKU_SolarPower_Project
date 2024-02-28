@@ -131,10 +131,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -296,10 +346,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -424,10 +524,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -541,7 +691,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -358, y: 205.1}
-  m_SizeDelta: {x: 300, y: 10}
+  m_SizeDelta: {x: 300, y: 7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &83869434
 MonoBehaviour:
@@ -589,10 +739,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -681,6 +881,7 @@ GameObject:
   m_Component:
   - component: {fileID: 104344621}
   - component: {fileID: 104344622}
+  - component: {fileID: 104344623}
   m_Layer: 0
   m_Name: Yeonggwang
   m_TagString: Untagged
@@ -740,6 +941,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 32.744293, y: 8.130817, z: 20.42154}
   m_Center: {x: -117.47566, y: 11.602228, z: -90.28319}
+--- !u!114 &104344623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 104344620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72eb8ae1a4e2875429b49d0deb78a452, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverScale: {x: 1.7, y: 1.7, z: 1.7}
+  hoverPosition: {x: 142.07, y: -8.2041, z: 47.14}
+  lerpSpeed: 0.5
+  nextScene: 0
 --- !u!1001 &115723946
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -748,10 +965,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -865,7 +1132,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 766, y: 120}
+  m_AnchoredPosition: {x: 805, y: 145}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &199389593
@@ -876,10 +1143,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -966,10 +1283,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -1058,6 +1425,7 @@ GameObject:
   m_Component:
   - component: {fileID: 224184722}
   - component: {fileID: 224184723}
+  - component: {fileID: 224184724}
   m_Layer: 0
   m_Name: Geumjeon
   m_TagString: Untagged
@@ -1117,6 +1485,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 32.744293, y: 8.130817, z: 20.42154}
   m_Center: {x: -117.47566, y: 11.602228, z: -90.28319}
+--- !u!114 &224184724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 224184721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72eb8ae1a4e2875429b49d0deb78a452, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverScale: {x: 1.7, y: 1.7, z: 1.7}
+  hoverPosition: {x: 97.069, y: -8.2041, z: 63.841}
+  lerpSpeed: 0.5
+  nextScene: 0
 --- !u!1 &240864553
 GameObject:
   m_ObjectHideFlags: 0
@@ -1151,7 +1535,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 692, y: 318}
+  m_AnchoredPosition: {x: 728, y: 336}
   m_SizeDelta: {x: 500, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &240864555
@@ -1204,10 +1588,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -1294,10 +1728,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -1786,10 +2270,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -2020,10 +2554,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -2110,10 +2694,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -2200,10 +2834,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -2317,7 +3001,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -350.6, y: 205.1}
-  m_SizeDelta: {x: 200, y: 10}
+  m_SizeDelta: {x: 200, y: 7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &536127452
 MonoBehaviour:
@@ -2365,10 +3049,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -2455,10 +3189,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -2545,10 +3329,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -2635,10 +3469,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -2725,10 +3609,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -2815,10 +3749,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -3006,7 +3990,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -716, y: 162}
+  m_AnchoredPosition: {x: -753, y: 93}
   m_SizeDelta: {x: 300, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &691161044
@@ -3059,10 +4043,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -3149,10 +4183,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -3265,7 +4349,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -743, y: -286}
+  m_AnchoredPosition: {x: -723, y: -297}
   m_SizeDelta: {x: 300, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &798435751
@@ -3318,10 +4402,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -3457,10 +4591,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -3547,10 +4731,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -3637,10 +4871,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -3727,10 +5011,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -3817,10 +5151,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -3907,10 +5291,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -4024,7 +5458,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -483, y: 170.9}
-  m_SizeDelta: {x: 100, y: 10}
+  m_SizeDelta: {x: 100, y: 7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1037777886
 MonoBehaviour:
@@ -4072,10 +5506,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -4162,10 +5646,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -4252,10 +5786,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -4342,10 +5926,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -4432,10 +6066,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -4549,7 +6233,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -466, y: 160}
-  m_SizeDelta: {x: 150, y: 10}
+  m_SizeDelta: {x: 150, y: 7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1130346747
 MonoBehaviour:
@@ -4624,7 +6308,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -331, y: 96}
-  m_SizeDelta: {x: 200, y: 10}
+  m_SizeDelta: {x: 200, y: 7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1149029933
 MonoBehaviour:
@@ -4672,10 +6356,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -4762,10 +6496,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -4927,10 +6711,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -5017,10 +6851,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -5142,10 +7026,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -5369,7 +7303,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -36, y: -42}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1399248336
@@ -5380,10 +7314,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -5497,7 +7481,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -422, y: 126}
-  m_SizeDelta: {x: 300, y: 10}
+  m_SizeDelta: {x: 300, y: 7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1402038586
 MonoBehaviour:
@@ -5545,10 +7529,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -5635,10 +7669,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -5725,10 +7809,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -5815,10 +7949,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -5905,10 +8089,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -5997,6 +8231,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1576663547}
   - component: {fileID: 1576663548}
+  - component: {fileID: 1576663549}
   m_Layer: 0
   m_Name: GoheungGeogeum
   m_TagString: Untagged
@@ -6056,6 +8291,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 32.744293, y: 8.130817, z: 20.42154}
   m_Center: {x: -117.47566, y: 11.602228, z: -90.28319}
+--- !u!114 &1576663549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1576663546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72eb8ae1a4e2875429b49d0deb78a452, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverScale: {x: 1.7, y: 1.7, z: 1.7}
+  hoverPosition: {x: 87.868, y: -8.2041, z: 106.94}
+  lerpSpeed: 0.5
+  nextScene: 0
 --- !u!1 &1649635939
 GameObject:
   m_ObjectHideFlags: 0
@@ -6090,7 +8341,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 736, y: -369}
+  m_AnchoredPosition: {x: 690, y: -411}
   m_SizeDelta: {x: 300, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1649635941
@@ -6170,7 +8421,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -245.6, y: 163.4}
-  m_SizeDelta: {x: 100, y: 10}
+  m_SizeDelta: {x: 100, y: 7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1658630521
 MonoBehaviour:
@@ -6218,10 +8469,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -6308,10 +8609,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -6398,10 +8749,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -6488,10 +8889,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -6578,10 +9029,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -6668,10 +9169,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -6758,10 +9309,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -6923,10 +9524,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -7015,6 +9666,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1793317601}
   - component: {fileID: 1793317602}
+  - component: {fileID: 1793317603}
   m_Layer: 0
   m_Name: Solaseado
   m_TagString: Untagged
@@ -7033,7 +9685,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 59, y: 0, z: 32.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1888208783}
   - {fileID: 676326399}
@@ -7074,6 +9726,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 32.744293, y: 8.130817, z: 20.42154}
   m_Center: {x: -117.47566, y: 11.602228, z: -90.28319}
+--- !u!114 &1793317603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1793317600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72eb8ae1a4e2875429b49d0deb78a452, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverScale: {x: 1.7, y: 1.7, z: 1.7}
+  hoverPosition: {x: 142.07, y: -8.2041, z: 96.441}
+  lerpSpeed: 0.5
+  nextScene: 1
 --- !u!1001 &1865973353
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7082,10 +9750,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -7172,10 +9890,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -7262,10 +10030,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -7352,10 +10170,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -7442,10 +10310,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1576663547}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -7532,10 +10450,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -7622,10 +10590,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -7712,10 +10730,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 224184722}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -7829,7 +10897,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -540.3, y: 170.9}
-  m_SizeDelta: {x: 100, y: 10}
+  m_SizeDelta: {x: 100, y: 7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2028507921
 MonoBehaviour:
@@ -7877,10 +10945,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 104344621}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -7967,10 +11085,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -8057,10 +11225,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
@@ -8147,10 +11365,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1793317601}
     m_Modifications:
+    - target: {fileID: 632587876942790635, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402145271563565829, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584815744182237890, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369410681785782230, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5112587091269993097, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5571594076057881475, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5759282921802371308, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820066011588573653, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
       propertyPath: m_Name
       value: SolarPanelFinal (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7218313830922148444, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124918045619605220, guid: af46129bb9d99f5488100ab71791375a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8810583979315476977, guid: af46129bb9d99f5488100ab71791375a,
         type: 3}
