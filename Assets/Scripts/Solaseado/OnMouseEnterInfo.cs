@@ -3,13 +3,25 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class MouseEnterTest : MonoBehaviour
+public class MouseEnterInfo : MonoBehaviour
 {
     public Canvas infoCanvas;
 
     private void Start()
     {
-        SetCanvasAndChildrenActive(false);
+        StartCoroutine(InitialDelay());
+    }
+
+    private IEnumerator InitialDelay()
+    {
+        Time.timeScale = 0f;
+        // 처음 2초 동안은 정지
+        yield return new WaitForSeconds(2f);
+        Time.timeScale = 1f;
+        if (Input.GetMouseButtonDown(0) || Input.anyKeyDown)
+        {
+            SetCanvasAndChildrenActive(false);
+        }
     }
 
     private void OnMouseEnter()
