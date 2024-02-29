@@ -9,18 +9,17 @@ public class CurrentTime : MonoBehaviour
 {
     public Text currentDate; 
     public Text currentTime;
-    public DateTime currentDateTime = DateTime.Now;
+    public DateTime currentDateTime;
 
-    void OnEnable()
+    void Start()
     {
-        UpdateCurrent();
-
-        InvokeRepeating("UpdateCurrent", 1f, repeatRate:1f); 
+        InvokeRepeating("UpdateCurrent", 1f, 1f);
     }
 
     // Update is called once per frame
     void UpdateCurrent()
     {
+        currentDateTime = DateTime.Now;
         currentDate.text = currentDateTime.ToString("yyyy³â MM¿ù ddÀÏ");
         currentTime.text = currentDateTime.ToString("HH:mm");
     }
