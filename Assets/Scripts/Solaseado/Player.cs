@@ -41,7 +41,7 @@ public class Player : MonoBehaviour
         my += ver_horizontal * rotSpeed * Time.deltaTime;
 
         //위아래 시야 y축 제한
-        my = Mathf.Clamp(my, -90f, 90f);
+        my = Mathf.Clamp(my, -80f, 80f);
         //x, y 축 회전 Vector3에 유의해서 작성
         transform.eulerAngles = new Vector3(-my, mx, 0);
     }
