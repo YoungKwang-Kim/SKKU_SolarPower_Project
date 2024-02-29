@@ -40,7 +40,7 @@ public class ChartTest : MonoBehaviour
         
         foreach(string regionFileName in regionFileNames)
         {
-            string url = $"https://solarpowerdata-default-rtdb.firebaseio.com/{date}/23_50/{regionFileName}.json";
+            string url = $"https://solarpowerdata-default-rtdb.firebaseio.com/{date}_REMS/23_50/{regionFileName}.json";
 
             using (UnityWebRequest webRequest = UnityWebRequest.Get(url))
             {
