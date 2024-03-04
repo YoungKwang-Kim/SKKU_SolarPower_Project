@@ -58,7 +58,7 @@ public class ChartTest : MonoBehaviour
                 }
             }
         }
-        result = totalData;
+        result = Math.Round(totalData, 1);
         barChart.UpdateData(0, dataIndex, result);
     }
 }
