@@ -15,6 +15,8 @@ public class DroneController : MonoBehaviour
     public Button startButton;
     public float flightHeight = 10.0f; // 비행 높이
     public float readySpeed = 2.5f; // 이착륙 속도
+    public Canvas thermalCanvas;
+    public Canvas minimapCanvas;
 
     private int waypointIndex; // waypoint들의 인덱스
 
@@ -38,6 +40,9 @@ public class DroneController : MonoBehaviour
 
         dronCamController = Camera.main.GetComponent<DronCamController>();
         dronCamController.enabled = false;
+
+        thermalCanvas.enabled = false;
+        minimapCanvas.enabled = false;
     }
 
     private void Update()
@@ -53,6 +58,9 @@ public class DroneController : MonoBehaviour
     {
         isDroneStart = true;
         dronCamController.enabled = true;
+
+        thermalCanvas.enabled = true;
+        minimapCanvas.enabled = true;
     }
 
     // 드론의 상태에 따른 행동패턴.
