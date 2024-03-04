@@ -7,9 +7,11 @@ using UnityEngine.UI;
 
 public class DroneController : MonoBehaviour
 {
+    public DronCamController dronCamController;
+
     public GameObject myDrone;
-    public Transform[] waypoints; // 비행경로
-    public float flightSpeed; // 비행속도
+    public Transform[] waypoints; 
+    public float flightSpeed;
     public Button startButton;
     public float flightHeight = 10.0f; // 비행 높이
     public float readySpeed = 2.5f; // 이착륙 속도
@@ -23,6 +25,7 @@ public class DroneController : MonoBehaviour
 
     private void Start()
     {
+        Debug.Log(isDroneStart);
         // waypoint들의 y값을 드론의 flightHeight만큼 높인다.
         foreach (Transform waypoint in waypoints)
         {
@@ -31,8 +34,10 @@ public class DroneController : MonoBehaviour
         // 드론의 처음 상태를 이륙상태로 만든다.
         droneState = State.TakeOff;
         // 시작버튼에 OnClickButton함수를 할당한다.
-        startButton.onClick.AddListener(OnClickButton);
+         //startButton.onClick.AddListener(OnClickButton);
 
+        dronCamController = Camera.main.GetComponent<DronCamController>();
+        dronCamController.enabled = false;
     }
 
     private void Update()
@@ -40,12 +45,14 @@ public class DroneController : MonoBehaviour
         if (isDroneStart)
         {
             SwitchDroneState();
+            Debug.Log(isDroneStart);
         }
     }
 
-    void OnClickButton()
+    public void OnClickButton()
     {
         isDroneStart = true;
+        dronCamController.enabled = true;
     }
 
     // 드론의 상태에 따른 행동패턴.
@@ -81,6 +88,8 @@ public class DroneController : MonoBehaviour
                 if (Vector3.Distance(waypoints[waypointIndex].transform.position, myDrone.transform.position) > 0.1f)
                 {
                     Move(myDrone, waypoints[waypointIndex].transform.position, flightSpeed);
+
+                    StartPropeller();
                 }
                 //현재 waypoint에 도달한 상태라면(두 거리의 차가 0.1 이하라면)
                 else
@@ -132,6 +141,7 @@ public class DroneController : MonoBehaviour
     // 프로펠러를 회전시킨다.
     private void StartPropeller()
     {
+        Debug.Log("StartPropeller method is called.");
         // 프로펠러 애니메이터 컴포넌트 가져오기.
         Animator propAnim = myDrone.GetComponent<Animator>();
 
