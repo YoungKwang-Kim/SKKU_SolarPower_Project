@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - 1
   - 2
+  - DronCam
   layers:
   - Default
   - TransparentFX
@@ -16,7 +16,7 @@ TagManager:
   - 
   - 
   - ThermalHot
-  - 
+  - Invisible
   - 
   - 
   - 
