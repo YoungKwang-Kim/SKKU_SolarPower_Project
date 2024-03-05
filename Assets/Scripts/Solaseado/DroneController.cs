@@ -36,7 +36,7 @@ public class DroneController : MonoBehaviour
         // 드론의 처음 상태를 이륙상태로 만든다.
         droneState = State.TakeOff;
         // 시작버튼에 OnClickButton함수를 할당한다.
-         //startButton.onClick.AddListener(OnClickButton);
+        //startButton.onClick.AddListener(OnClickButton);
 
         dronCamController = Camera.main.GetComponent<DronCamController>();
         dronCamController.enabled = false;
@@ -50,7 +50,6 @@ public class DroneController : MonoBehaviour
         if (isDroneStart)
         {
             SwitchDroneState();
-            Debug.Log(isDroneStart);
         }
     }
 
@@ -66,8 +65,6 @@ public class DroneController : MonoBehaviour
     // 드론의 상태에 따른 행동패턴.
     public void SwitchDroneState()
     {
-        
-
         //드론 상태변화
         switch (droneState)
         {
@@ -83,7 +80,9 @@ public class DroneController : MonoBehaviour
                     // 프로펠러 순서대로 회전시킨다.
                     StartPropeller();
                     // 이륙
+                    Debug.Log("f");
                     myDrone.transform.Translate(Vector3.up * readySpeed * Time.deltaTime);
+                    Debug.Log("r");
                     if (myDrone.transform.position.y > flightHeight)
                     {
                         droneState = State.Flight;
@@ -125,7 +124,7 @@ public class DroneController : MonoBehaviour
             case State.Landing:
 
                 myDrone.transform.Translate(Vector3.down * readySpeed * Time.deltaTime);
-                if (myDrone.transform.position.y < 2)
+                if (myDrone.transform.position.y < 5)
                 {
                     readySpeed = 0;
                 }
@@ -149,7 +148,6 @@ public class DroneController : MonoBehaviour
     // 프로펠러를 회전시킨다.
     private void StartPropeller()
     {
-        Debug.Log("StartPropeller method is called.");
         // 프로펠러 애니메이터 컴포넌트 가져오기.
         Animator propAnim = myDrone.GetComponent<Animator>();
 
