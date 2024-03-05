@@ -44,7 +44,7 @@ public class WeatherAPI : MonoBehaviour
         // kelvin -> ¼·¾¾
         float celsiusTemperature = kelvinTemperature - 273.15f;
 
-        temperatureText.text = "Seoul : " + celsiusTemperature.ToString("F1") + "¡ÆC";
+        temperatureText.text = "Seoul : " + celsiusTemperature.ToString("F0") + "¡ÆC";
 
         int weatherId = weatherData.weather[0].id;
         Sprite weatherSprite = GetWeatherIcon(weatherId);

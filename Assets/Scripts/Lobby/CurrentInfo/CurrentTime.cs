@@ -20,7 +20,7 @@ public class CurrentTime : MonoBehaviour
     void UpdateCurrent()
     {
         currentDateTime = DateTime.Now;
-        currentDate.text = currentDateTime.ToString("yyyy년 MM월 dd일");
+        currentDate.text = currentDateTime.ToString("yyyy 년  MM 월  dd 일");
         currentTime.text = currentDateTime.ToString("HH:mm");
     }
 }
