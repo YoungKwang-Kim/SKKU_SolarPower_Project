@@ -38,7 +38,7 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
 
     private void Start()
     {
-        
+        SetDataToText();
     }
 
     public IEnumerator GetChargeInfo()
@@ -154,11 +154,6 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
         // 날짜와 시간 폴더 접근
         SetText();
         StartCoroutine(GetChargeInfo());
-    }
-    // 발전량 데이터를 다 가져오면 데이터를 텍스트에 넣는 코루틴입니다.
-    IEnumerator GetChargeInfoCoroutine()
-    {
-        yield return GetChargeInfo();
     }
     
 }
