@@ -15,7 +15,9 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
     public Text dateText;
     // 시간을 보여주는 텍스트
     public Text timeText;
-    // 광역시 탑3 텍스트
+    // 광역시 탑3 텍스트 지역 이름
+    public TextMeshProUGUI[] topThreeTextName;
+    // 광역시 탑3 텍스트 데이터
     public TextMeshProUGUI[] topThreeText;
     // Pie 그래프
     public PieChart pieChart;
@@ -92,7 +94,8 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
         // 1, 2, 3위 텍스트에 표시
         foreach (var kvp in sortedDictionary)
         {
-            topThreeText[index].text = $"{kvp.Key} : {kvp.Value}";
+            topThreeTextName[index].text = $"{kvp.Key}";
+            topThreeText[index].text = $"{kvp.Value}MWh";
             index++;
             if (index == 3)
                 break;
