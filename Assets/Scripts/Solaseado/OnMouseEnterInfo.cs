@@ -49,7 +49,6 @@ public class MouseEnterInfo : MonoBehaviour
     private void OnMouseEnter()
     {
         SetCanvasAndChildrenActive(true);
-        Debug.Log("마우스 호버");
     }
 
     private void OnMouseExit()

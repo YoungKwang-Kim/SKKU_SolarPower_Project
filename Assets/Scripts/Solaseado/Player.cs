@@ -8,10 +8,11 @@ public class Player : MonoBehaviour
     public float rotSpeed = 2000f;
     float mx;
     float my;
+    bool isRotatable = true;
 
     private void Start()
     {
-        //카메라의 초기 세팅 회전값 가져오기
+        // 카메라의 초기 세팅 회전값 가져오기
         mx = transform.eulerAngles.y;
         my = -transform.eulerAngles.x;
     }
@@ -20,13 +21,13 @@ public class Player : MonoBehaviour
     {
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
-        
-        //q를 누르면 y값 하강, e를 누르면 y값 상승
-        if(Input.GetKey(KeyCode.Q))
+
+        // q를 누르면 y값 하강, e를 누르면 y값 상승
+        if (Input.GetKey(KeyCode.Q))
         {
             transform.Translate(Vector3.down * speed * Time.deltaTime);
         }
-        if(Input.GetKey(KeyCode.E))
+        if (Input.GetKey(KeyCode.E))
         {
             transform.Translate(Vector3.up * speed * Time.deltaTime);
         }
@@ -34,15 +35,19 @@ public class Player : MonoBehaviour
         Vector3 movement = new Vector3(horizontal, 0, vertical) * speed * Time.deltaTime;
         transform.Translate(movement);
 
-        float rot_horizontal = Input.GetAxis("Mouse X");
-        float ver_horizontal = Input.GetAxis("Mouse Y");
+        // 스페이스바를 누르고 있는 동안은 마우스로 회전하지 않음
+        if (!Input.GetKey(KeyCode.Space))
+        {
+            float rot_horizontal = Input.GetAxis("Mouse X");
+            float ver_horizontal = Input.GetAxis("Mouse Y");
 
-        mx += rot_horizontal * rotSpeed * Time.deltaTime;
-        my += ver_horizontal * rotSpeed * Time.deltaTime;
+            mx += rot_horizontal * rotSpeed * Time.deltaTime;
+            my += ver_horizontal * rotSpeed * Time.deltaTime;
 
-        //위아래 시야 y축 제한
-        my = Mathf.Clamp(my, -80f, 80f);
-        //x, y 축 회전 Vector3에 유의해서 작성
-        transform.eulerAngles = new Vector3(-my, mx, 0);
+            // 위아래 시야 y축 제한
+            my = Mathf.Clamp(my, -80f, 80f);
+            // x, y 축 회전 Vector3에 유의해서 작성
+            transform.eulerAngles = new Vector3(-my, mx, 0);
+        }
     }
 }
