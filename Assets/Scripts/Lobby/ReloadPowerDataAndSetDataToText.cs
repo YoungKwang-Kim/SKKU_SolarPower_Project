@@ -23,13 +23,13 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
     // 도넛그래프 탑4 텍스트
     public TextMeshProUGUI[] topFourText;
     // 실시간 전국 총 생산량
-    public double total = 0;
+    public double total;
 
     // URL 구성요소
     public string dateFileName;
     public string timeFileName;
-    private string[] DashboardRegionNames = { "data_11", "data_26", "data_27", "data_28", "data_29", "data_30", "data_31", "data_41", "data_42", "data_43", "data_44", "data_45", "data_46", "data_47", "data_48" };
-    string[] RegionKoreaName = { "서울특별시", "부산광역시", "대구광역시", "인천광역시", "광주광역시", "대전광역시", "울산광역시", "경기도", "강원도", "충청북도", "충청남도", "전라북도", "전라남도", "경상북도", "경상남도" };
+    private string[] DashboardRegionNames = { "data_11", "data_26", "data_27", "data_28", "data_29", "data_30", "data_31", "data_36", "data_41", "data_42", "data_43", "data_44", "data_45", "data_46", "data_47", "data_48", "data_50" };
+    string[] RegionKoreaName = { "서울특별시", "부산광역시", "대구광역시", "인천광역시", "광주광역시", "대전광역시", "울산광역시", "세종특별시", "경기도", "강원도", "충청북도", "충청남도", "전라북도", "전라남도", "경상북도", "경상남도", "제주특별자치도" };
     private Dictionary<string, double> topThreeRegionData = new Dictionary<string, double>();
     private Dictionary<string, double> topFourRegionData = new Dictionary<string, double>();
 
@@ -41,6 +41,7 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
 
     private void Start()
     {
+        total = 0;
         SetDataToText();
     }
 
@@ -78,6 +79,11 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
         }
         DescendingTopThreeDictionary(topThreeRegionData);
         DescendingTopFourDictionary(topFourRegionData);
+        // 전력량을 다 받아와서 텍스트에 할당을 하면 텍스트를 보이도록 한다.
+        foreach (TextMeshProUGUI text in powerText)
+        {
+            text.enabled = true;
+        }
         topThreeRegionData.Clear();
         topFourRegionData.Clear();
     }
@@ -108,7 +114,7 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
     void DescendingTopFourDictionary(Dictionary<string, double> dict)
     {
         // 딕셔너리에 값 추가
-        for (int i = 7; i < 15; i++)
+        for (int i = 8; i < 16; i++)
         {
             dict.Add(RegionKoreaName[i], double.Parse(powerText[i].text));
         }
@@ -143,7 +149,7 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
         {
             timeFileName = "0" + splitTime.ToString() + "_50";
         }
-        // 
+        // 불러오는 시간이 0시라면
         else if (splitTime < 0)
         {
             timeFileName = "00_50";
@@ -156,8 +162,14 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
     // 날짜별 시간별 데이터를 텍스트에 넣는다.
     public void SetDataToText()
     {
+        // 캘린더에서 날짜 버튼을 누르거나 시간 슬라이드를 조정하면 텍스트가 보이지 않았다가 정보를 다 받아오면 다시 보이는 것으로 한다.
+        foreach (TextMeshProUGUI text in powerText)
+        {
+            text.enabled = false;
+        }
         // 날짜와 시간 폴더 접근
         SetText();
+        
         StartCoroutine(GetChargeInfo());
     }
 }

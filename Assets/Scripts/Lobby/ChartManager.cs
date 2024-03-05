@@ -10,7 +10,7 @@ public class ChartManager : MonoBehaviour
 {
     public BarChart barChart;
 
-    private string[] regionFileNames = { "data_11", "data_26", "data_27", "data_28", "data_29", "data_30", "data_31", "data_41", "data_42", "data_43", "data_44", "data_45", "data_46", "data_47", "data_48" };
+    private string[] regionFileNames = { "data_11", "data_26", "data_27", "data_28", "data_29", "data_30", "data_31", "data_36", "data_41", "data_42", "data_43", "data_44", "data_45", "data_46", "data_47", "data_48", "data_50" };
     private DateTime lastCheckedDate;
 
     // Start is called before the first frame update
