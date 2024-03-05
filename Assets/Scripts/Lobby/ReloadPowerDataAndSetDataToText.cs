@@ -114,7 +114,7 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
         // 1 ~ 4위 PieChart에 표시한다.
         foreach (var kvp in sortedDictionary)
         {
-            double value = 1080 * kvp.Value / total;
+            double value = 360 * kvp.Value / total;
             pieChart.UpdateData(index, 0, value);
             pieChart.UpdateDataName(index, 0, kvp.Key);
             pieChart.UpdateDataName(index, 1, kvp.Key);
