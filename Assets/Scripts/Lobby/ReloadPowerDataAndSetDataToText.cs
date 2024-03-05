@@ -6,7 +6,6 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Networking;
 using System;
-using System.Security.Policy;
 using XCharts.Runtime;
 
 public class ReloadPowerDataAndSetDataToText : MonoBehaviour
@@ -34,8 +33,10 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
     private Dictionary<string, double> topThreeRegionData = new Dictionary<string, double>();
     private Dictionary<string, double> topFourRegionData = new Dictionary<string, double>();
 
-    // 발전량을 표시할 텍스트
+    // 발전량을 전달할 텍스트
     public TextMeshProUGUI[] powerText;
+    // 발전량을 표시할 텍스트
+    public TextMeshProUGUI[] powerIndicate;
 
 
     private void Start()
@@ -70,6 +71,7 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
                     PowerDataInfoArray powerDataInfoArray = JsonUtility.FromJson<PowerDataInfoArray>("{\"powerDataInfo\":" + webRequest.downloadHandler.text + "}");
                     total += powerDataInfoArray.powerDataInfo[0].dayGelec;
                     powerText[regionFileIndex].text = powerDataInfoArray.powerDataInfo[0].dayGelec.ToString();
+                    powerIndicate[regionFileIndex].text = $"{powerDataInfoArray.powerDataInfo[0].dayGelec:F2}";
                     regionFileIndex++;
                 }
             }
@@ -95,7 +97,7 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
         foreach (var kvp in sortedDictionary)
         {
             topThreeTextName[index].text = $"{kvp.Key}";
-            topThreeText[index].text = $"{kvp.Value}MWh";
+            topThreeText[index].text = $"{kvp.Value:F2}MWh";
             index++;
             if (index == 3)
                 break;
@@ -158,5 +160,4 @@ public class ReloadPowerDataAndSetDataToText : MonoBehaviour
         SetText();
         StartCoroutine(GetChargeInfo());
     }
-    
 }
