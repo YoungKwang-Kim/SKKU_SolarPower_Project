@@ -5,11 +5,12 @@ using UnityEngine;
 public class ThermalCamSync : MonoBehaviour
 {
     private Transform mainCameraTransform;
+    public Transform droneCamera;
 
     private void Start()
     {
         // 메인 카메라의 Transform을 찾습니다.
-        mainCameraTransform = Camera.main.transform;
+        mainCameraTransform = droneCamera.transform;
 
         // 만약 메인 카메라가 없다면 경고를 표시합니다.
         if (mainCameraTransform == null)
@@ -24,7 +25,7 @@ public class ThermalCamSync : MonoBehaviour
         if (mainCameraTransform != null)
         {
             transform.position = mainCameraTransform.position;
-            transform.rotation = mainCameraTransform.rotation;
+            transform.rotation = Quaternion.Euler(30, mainCameraTransform.rotation.y, 0);
         }
     }
 }
