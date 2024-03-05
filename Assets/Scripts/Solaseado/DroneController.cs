@@ -10,6 +10,7 @@ public class DroneController : MonoBehaviour
     public DronCamController dronCamController;
 
     public GameObject myDrone;
+    private Animator propAnim;
     public Transform[] waypoints; 
     public float flightSpeed;
     public Button startButton;
@@ -27,7 +28,9 @@ public class DroneController : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log(isDroneStart);
+        // 프로펠러 애니메이터 컴포넌트 가져오기.
+        propAnim = myDrone.GetComponent<Animator>();
+
         // waypoint들의 y값을 드론의 flightHeight만큼 높인다.
         foreach (Transform waypoint in waypoints)
         {
@@ -80,9 +83,7 @@ public class DroneController : MonoBehaviour
                     // 프로펠러 순서대로 회전시킨다.
                     StartPropeller();
                     // 이륙
-                    Debug.Log("f");
                     myDrone.transform.Translate(Vector3.up * readySpeed * Time.deltaTime);
-                    Debug.Log("r");
                     if (myDrone.transform.position.y > flightHeight)
                     {
                         droneState = State.Flight;
@@ -92,11 +93,9 @@ public class DroneController : MonoBehaviour
             //비행
             case State.Flight:
                 //두 거리를 비교한 뒤에 거리의 차이가 있다면 해당 waypoint로 이동
-                if (Vector3.Distance(waypoints[waypointIndex].transform.position, myDrone.transform.position) > 0.1f)
+                if (Vector3.Distance(waypoints[waypointIndex].transform.position, myDrone.transform.position) > 1f)
                 {
                     Move(myDrone, waypoints[waypointIndex].transform.position, flightSpeed);
-
-                    StartPropeller();
                 }
                 //현재 waypoint에 도달한 상태라면(두 거리의 차가 0.1 이하라면)
                 else
@@ -114,7 +113,7 @@ public class DroneController : MonoBehaviour
 
                 Move(myDrone, waypoints[0].transform.position, flightSpeed);
 
-                if (Vector3.Distance(waypoints[0].transform.position, myDrone.transform.position) < 0.1f)
+                if (Vector3.Distance(waypoints[0].transform.position, myDrone.transform.position) < 1f)
                 {
                     droneState = State.Landing;
                 }
@@ -127,6 +126,7 @@ public class DroneController : MonoBehaviour
                 if (myDrone.transform.position.y < 5)
                 {
                     readySpeed = 0;
+                    PausePropeller();
                 }
                 break;
         }
@@ -140,7 +140,7 @@ public class DroneController : MonoBehaviour
         relativePosition.Normalize();
 
         //두 지점 차이의 방향으로 normal, 그 각도 사이를 RotateTowards로 돌리기. 한 프레임에 1도씩
-        gameobject.transform.rotation = Quaternion.RotateTowards(gameobject.transform.rotation, Quaternion.LookRotation(relativePosition), 1);
+        gameobject.transform.rotation = Quaternion.RotateTowards(gameobject.transform.rotation, Quaternion.LookRotation(relativePosition), 2f);
         // gameObject가 목표지점을 향해 날아간다.
         gameobject.transform.Translate(Vector3.forward * speed * Time.deltaTime);
     }
@@ -148,9 +148,6 @@ public class DroneController : MonoBehaviour
     // 프로펠러를 회전시킨다.
     private void StartPropeller()
     {
-        // 프로펠러 애니메이터 컴포넌트 가져오기.
-        Animator propAnim = myDrone.GetComponent<Animator>();
-
         if (propAnim == null )
         {
             Debug.Log("프로펠러 애니메이션을 설정해주세요.");
@@ -166,7 +163,17 @@ public class DroneController : MonoBehaviour
     // 프로펠러를 멈춘다.
     private void PausePropeller()
     {
-        // 개발해야함.
+        if (propAnim == null)
+        {
+            Debug.Log("프로펠러 애니메이션을 설정해주세요.");
+        }
+        else
+        {
+            for (int i = 0; i < 5; i++)
+            {
+                propAnim.SetLayerWeight(i, 0);
+            }
+        }
     }
 
 }
