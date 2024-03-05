@@ -11,7 +11,8 @@ public class DroneController : MonoBehaviour
 
     public GameObject myDrone;
     private Animator propAnim;
-    public Transform[] waypoints; 
+    public Transform[] waypoints;
+    public Transform waypointBase;
     public float flightSpeed;
     public Button startButton;
     public float flightHeight = 10.0f; // 비행 높이
@@ -30,6 +31,8 @@ public class DroneController : MonoBehaviour
     {
         // 프로펠러 애니메이터 컴포넌트 가져오기.
         propAnim = myDrone.GetComponent<Animator>();
+
+        waypointBase.position = new Vector3 (0, flightHeight, 0);
 
         // waypoint들의 y값을 드론의 flightHeight만큼 높인다.
         foreach (Transform waypoint in waypoints)
@@ -111,9 +114,9 @@ public class DroneController : MonoBehaviour
             // 원래 자리로 복귀
             case State.Return:
 
-                Move(myDrone, waypoints[0].transform.position, flightSpeed);
+                Move(myDrone, waypointBase.transform.position, flightSpeed);
 
-                if (Vector3.Distance(waypoints[0].transform.position, myDrone.transform.position) < 1f)
+                if (Vector3.Distance(waypointBase.transform.position, myDrone.transform.position) < 1f)
                 {
                     droneState = State.Landing;
                 }
@@ -123,7 +126,7 @@ public class DroneController : MonoBehaviour
             case State.Landing:
 
                 myDrone.transform.Translate(Vector3.down * readySpeed * Time.deltaTime);
-                if (myDrone.transform.position.y < 5)
+                if (myDrone.transform.position.y < 0.5)
                 {
                     readySpeed = 0;
                     PausePropeller();

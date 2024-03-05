@@ -15249,6 +15249,7 @@ MonoBehaviour:
   - {fileID: 933843222}
   - {fileID: 2107000018}
   - {fileID: 1020787452}
+  waypointBase: {fileID: 1263546031}
   flightSpeed: 13
   startButton: {fileID: 19824905}
   flightHeight: 15
@@ -44607,7 +44608,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 
 --- !u!222 &786668512
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -70928,7 +70929,7 @@ Transform:
   m_GameObject: {fileID: 1263546030}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.3, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
