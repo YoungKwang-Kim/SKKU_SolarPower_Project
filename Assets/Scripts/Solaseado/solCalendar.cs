@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using static UnityEngine.GraphicsBuffer;
 
 public class solCalendar : MonoBehaviour
 {
@@ -58,7 +59,7 @@ public class solCalendar : MonoBehaviour
         // 현재 월의 달력 생성
         CreateCalendar();
 
-        calendarPanel.SetActive(false); // 초기에는 달력을 보이지 않도록 설정
+        calendarPanel.SetActive(false); // 처음부터 보이도록 수정했습니다.
     }
 
     // 현재 월의 달력을 생성하는 함수
@@ -136,6 +137,7 @@ public class solCalendar : MonoBehaviour
     }
 
 
+    // 처음부터 달력이 보이도록 수정했습니다.
     // 달력을 보이게 하는 함수
     public void ShowCalendar(Text target)
     {
@@ -143,7 +145,6 @@ public class solCalendar : MonoBehaviour
         _target = target;
         //calendarPanel.transform.position = new Vector3(965, 475, 0);//Input.mousePosition-new Vector3(0,120,0);
     }
-
 
     
     Text _target;
