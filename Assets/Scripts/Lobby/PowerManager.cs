@@ -44,7 +44,6 @@ public class PowerManager : MonoBehaviour
         powerData.timeFileName = splitTimeText[0] + "_50";
 
         powerData.StartCoroutine(GetChargeInfoCoroutine());
-        
     }
 
     IEnumerator GetChargeInfoCoroutine()
