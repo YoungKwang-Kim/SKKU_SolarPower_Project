@@ -13,7 +13,7 @@
 * * *
 ## 대시보드씬
 
-<img width="348" alt="스크린샷 2024-04-04 143935" src="https://github.com/YoungKwang-Kim/SKKU_SolarPower_Project/assets/54823568/5627d0f1-02b1-4d58-a641-aacfc1401a3c">
+![image](https://github.com/YoungKwang-Kim/SKKU_SolarPower_Project/assets/54823568/3d00d73a-aa71-4dcc-a2ed-33e58d523c78)
 
 ### 🔵 프로그램 작동 순서
 
