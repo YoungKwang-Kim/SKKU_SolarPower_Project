@@ -1,6 +1,7 @@
 # SKKU_Energy_Project
 
 **시연영상** - https://youtu.be/0-Z_JaoFdKU
+[![Video Label](http://img.youtube.com/vi/0-Z_JaoFdKU/0.jpg)](https://youtu.be/0-Z_JaoFdKU)
 
 ## 의도
 + 세계 각국이 탄소 중립에 힘을 기울임과 비례하여 신재생에너지도 많은 주목을 받으며 규모가 증가하기 시작하였습니다. 신재생 에너지에는 많은 종류가 있지만, 그 중 날이 갈수록 규모가 가파르게 상승하는 태양광발전소 분야를 선택하였습니다.
