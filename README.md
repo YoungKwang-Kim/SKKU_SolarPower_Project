@@ -15,6 +15,12 @@
 
 ![image](https://github.com/YoungKwang-Kim/SKKU_SolarPower_Project/assets/54823568/3d00d73a-aa71-4dcc-a2ed-33e58d523c78)
 
+### 기술스택
++ Unity
++ C#
++ Python
++ Firebase
+
 ### 🔵 프로그램 작동 순서
 
 프로그램을 처음 시작하면 오늘의 날짜와 시간을 불러옵니다. 
