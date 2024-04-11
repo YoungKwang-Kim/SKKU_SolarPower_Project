@@ -15,7 +15,7 @@
 
 <img width="348" alt="스크린샷 2024-04-04 143935" src="https://github.com/YoungKwang-Kim/SKKU_SolarPower_Project/assets/54823568/5627d0f1-02b1-4d58-a641-aacfc1401a3c">
 
-### 프로그램 작동 순서
+### 🔵 프로그램 작동 순서
 
 프로그램을 처음 시작하면 오늘의 날짜와 시간을 불러옵니다. 
 
@@ -25,17 +25,17 @@
 
 그리고 슬라이더로 시간을 선택하며, 선택한 시간의 데이터를 불러옵니다.
 
-### 웹크롤링
+### 🔵 웹크롤링
 
 __신재생에너지__ __통합모니터링시스템__(REMS)에서 Python코드로 **금일발전량**을 크롤링 해서 데이터들을 수집하고 **Firebase RealtimeDatabase**에 "금일날짜/수집한 시간/지역"에 저장을 했습니다.
 
-### XCharts
+### 🔵 XCharts
 
 주간 발전량과 태양광 발전량의 그래프들
 
 **XCharts 패키지**를 사용해서 구현했습니다.
 
-### 광역시 top3와 도별 top4
+### 🔵 광역시 top3와 도별 top4
 
 광역시의 이름과 발전량을 **Dictionary<string, double>**형태로 저장합니다.
 
@@ -57,3 +57,10 @@ __신재생에너지__ __통합모니터링시스템__(REMS)에서 Python코드�
 슬라이더를 조절하면 그 날의 태양의 위치값을 움직일 수 있도록 유니티로 구현을 했습니다.
 
 ### 🔵 적외선 카메라 구현
+![image](https://github.com/YoungKwang-Kim/SKKU_SolarPower_Project/assets/54823568/66dc333a-9ce7-4cd6-a212-bcd76784b3c5)
+![image](https://github.com/YoungKwang-Kim/SKKU_SolarPower_Project/assets/54823568/1322c686-4f86-4c97-a65b-832b36b51525)
+
+### 🔵 드론 점검 가상 시뮬레이션
+
+각 구역 별 발전량을 텍스트로 표시합니다.
+![image](https://github.com/YoungKwang-Kim/SKKU_SolarPower_Project/assets/54823568/d5ed5c4b-a576-4ef8-9b2e-080c6888ab17)
