@@ -44,11 +44,13 @@ __신재생에너지__ __통합모니터링시스템__(REMS)에서 Python코드�
 
 * * *
 ## 솔라시도 씬
-<img width="349" alt="스크린샷 2024-04-04 144242" src="https://github.com/YoungKwang-Kim/SKKU_SolarPower_Project/assets/54823568/5ca38e8d-2eba-4b1d-b83e-0884726c21e3">
+![image](https://github.com/YoungKwang-Kim/SKKU_SolarPower_Project/assets/54823568/5b0f0f20-7bf4-4a50-83bc-a99e53f5e420)
+
 
 전라남도 해남에 위치한 솔라시도 태양광 발전소를 유니티로 구현을 했습니다.
 
 ### 🔵 태양고도 구현
+![image](https://github.com/YoungKwang-Kim/SKKU_SolarPower_Project/assets/54823568/704ffac7-4127-4c4b-914f-aa6273944818)
 
 공공데이터 포털에 공개된 **한국천문연구원_태양고도 정보**에서 태양의 고도값을 API로 xml형태로 호출을 했습니다.
 
